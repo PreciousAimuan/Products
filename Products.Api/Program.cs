@@ -23,6 +23,8 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddDefaultTokenProviders();
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddTransient<IEmailService, EmailService>();
+
 builder.Services.AddScoped<ProductService>();
 
 builder.Services.AddControllers();

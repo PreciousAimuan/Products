@@ -306,3 +306,6 @@ C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\obj\Debug\net8.0\refint
 C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\obj\Debug\net8.0\Products.Api.pdb
 C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\obj\Debug\net8.0\Products.Api.genruntimeconfig.cache
 C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\obj\Debug\net8.0\ref\Products.Api.dll
+C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\bin\Debug\net8.0\MailKit.dll
+C:\Users\ZBOOK 14U G6\source\repos\Products\Products.Api\bin\Debug\net8.0\MimeKit.dll
